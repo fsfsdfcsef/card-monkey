@@ -17,7 +17,9 @@ namespace CardMonkey.Upgrades.TopPath
 
         // public override string DisplayName => "Don't need to override this, the default turns it into 'Pair'"
 
-        public override string Description => "Throws two cards at a time";
+        public override string DisplayName => "一对";
+
+        public override string Description => "一次扔出2张卡片";
 
         public override void ApplyUpgrade(TowerModel tower)
         {

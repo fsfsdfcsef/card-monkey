@@ -10,7 +10,9 @@ namespace CardMonkey.Upgrades.BottomPath
         public override int Tier => 4;
         public override int Cost => 2500;
 
-        public override string Description => "Attacks extra fast permanently and with bigger range";
+        public override string DisplayName => "标记卡牌";
+
+        public override string Description => "永久提高攻击速度并且范围变大";
 
         public override string Portrait => "CardMonkey-Portrait";
 

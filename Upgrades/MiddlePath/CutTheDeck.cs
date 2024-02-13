@@ -11,8 +11,8 @@ namespace CardMonkey.Upgrades.MiddlePath
         public override int Tier => 1;
         public override int Cost => 400;
 
-        public override string DisplayName => "Cut the Deck";
-        public override string Description => "Cards have increased pierce";
+        public override string DisplayName => "切牌";
+        public override string Description => "提升卡片穿透";
 
         public override string Portrait => "CardMonkey-Portrait";
 

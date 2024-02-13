@@ -17,8 +17,8 @@ namespace CardMonkey.Upgrades.BottomPath
         public override int Tier => 5;
         public override int Cost => 50000;
 
-        public override string DisplayName => "Twist of Fate";
-        public override string Description => "Cards can explode, stun Bloons, and make Bloons give extra money.";
+        public override string DisplayName => "扭转命运";
+        public override string Description => "卡片能够爆炸，击晕气球，增加击破收入";
 
         public override string Portrait => "CardMonkey-Portrait";
 

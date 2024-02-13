@@ -10,7 +10,8 @@ namespace CardMonkey.Upgrades.BottomPath
         public override int Tier => 1;
         public override int Cost => 300;
 
-        public override string Description => "Throws cards faster";
+        public override string DisplayName => "算牌";
+        public override string Description => "扔出卡片的速度加快";
 
         public override string Portrait => "CardMonkey-Portrait";
 

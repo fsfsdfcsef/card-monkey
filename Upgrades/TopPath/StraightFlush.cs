@@ -13,7 +13,9 @@ namespace CardMonkey.Upgrades.TopPath
         public override int Cost => 4000;
         public override int Priority => -1;
 
-        public override string Description => "Throws 5 cards at a time. Cards do 1, 2, 3, 4 and 5 damage.";
+        public override string DisplayName => "同花顺";
+
+        public override string Description => "一次扔出5张卡片，分别造成1，2，3，4，5点伤害";
 
         public override string Portrait => "CardMonkey-Portrait";
 

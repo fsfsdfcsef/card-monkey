@@ -11,8 +11,8 @@ namespace CardMonkey.Upgrades.TopPath
         public override int Tier => 2;
         public override int Cost => 700;
 
-        public override string DisplayName => "Three of a Kind";
-        public override string Description => "Throws three cards at a time";
+        public override string DisplayName => "三条";
+        public override string Description => "一次扔出3张卡片";
 
         public override string Portrait => "CardMonkey-Portrait";
 

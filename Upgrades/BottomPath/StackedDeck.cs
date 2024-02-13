@@ -12,7 +12,9 @@ namespace CardMonkey.Upgrades.BottomPath
         public override int Tier => 3;
         public override int Cost => 750;
 
-        public override string Description => "Attacks extra fast at the start of the round";
+        public override string DisplayName => "牌堆";
+
+        public override string Description => "在每回合开始时暂时提升攻击速度";
 
         public override string Portrait => "CardMonkey-Portrait";
 

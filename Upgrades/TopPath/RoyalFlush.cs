@@ -11,7 +11,9 @@ namespace CardMonkey.Upgrades.TopPath
         public override int Cost => 20000;
         public override int Priority => -2;
 
-        public override string Description => "Cards do 10, 11, 12, 13 and 14 damage.";
+        public override string DisplayName => "皇家同花顺";
+
+        public override string Description => "卡片伤害增加到10，11，12，13，14点";
 
         public override string Portrait => "CardMonkey-Portrait";
 

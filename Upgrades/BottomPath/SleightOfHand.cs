@@ -11,8 +11,8 @@ namespace CardMonkey.Upgrades.BottomPath
         public override int Tier => 2;
         public override int Cost => 350;
 
-        public override string DisplayName => "Sleight of Hand";
-        public override string Description => "Can attack Camo Bloons";
+        public override string DisplayName => "手法";
+        public override string Description => "可以攻击迷彩气球";
 
         public override string Portrait => "CardMonkey-Portrait";
 

@@ -6,8 +6,8 @@ namespace CardMonkey.Upgrades
     public class GodKingOfSpades : ModParagonUpgrade<CardMonkey>
     {
         public override int Cost => 400000;
-        public override string Description => "Sometimes the hand of fate must be forced...";
-        public override string DisplayName => "God-King of Spades";
+        public override string Description => "有时候必须将命运掌握在手中...";
+        public override string DisplayName => "黑桃之王";
 
         public override void ApplyUpgrade(TowerModel towerModel)
         {

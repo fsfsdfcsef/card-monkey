@@ -16,8 +16,8 @@ namespace CardMonkey.Upgrades.MiddlePath
         public override int Priority => -3;
 
 
-        public override string DisplayName => "Ace of Spades";
-        public override string Description => "Aces are even more deadly, dealing extreme damage to MOAB class bloons.";
+        public override string DisplayName => "黑桃Ace";
+        public override string Description => "黑桃Ace伤害更加致命，对MOAB级气球造成大量伤害";
 
         public override string Portrait => "CardMonkey-Portrait";
 

@@ -21,10 +21,10 @@ namespace CardMonkey.Upgrades.MiddlePath
         public override int Tier => 4;
         public override int Cost => 4440;
 
-        public override string DisplayName => "Ace in the Hole";
+        public override string DisplayName => "洞中Ace";
 
         public override string Description =>
-            "Ability: Throws a super powerful Ace card that seeks Bloons along the track.";
+            "技能：扔出一张强力的追踪Ace";
 
         public override string Portrait => "CardMonkey-Portrait";
 

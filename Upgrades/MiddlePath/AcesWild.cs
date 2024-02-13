@@ -13,10 +13,10 @@ namespace CardMonkey.Upgrades.MiddlePath
         public override int Tier => 3;
         public override int Cost => 1500;
 
-        public override string DisplayName => "Aces Wild";
+        public override string DisplayName => "万能Ace";
 
         public override string Description =>
-            "Powerful Ace cards do more damage, further increased against Ceramic and Fortified Bloons.";
+            "强力的Ace牌造成更多伤害，对陶瓷气球和强化气球伤害增加";
 
         public override string Portrait => "CardMonkey-Portrait";
 

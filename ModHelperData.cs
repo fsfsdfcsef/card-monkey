@@ -4,9 +4,9 @@
     {
         public const string WorksOnVersion = "37.0";
         public const string Version = "1.2.7";
-        public const string Name = "Card Monkey";
+        public const string Name = "卡片猴";
         public const string Description =
-            "Adds in a new custom tower themed around playing cards.";
+            "加入了一个以卡牌为主题的自定义塔";
 
         public const string RepoOwner = "doombubbles";
         public const string RepoName = "card-monkey";

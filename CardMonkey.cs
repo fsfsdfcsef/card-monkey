@@ -26,9 +26,10 @@ namespace CardMonkey
         public override int TopPathUpgrades => 5;
         public override int MiddlePathUpgrades => 5;
         public override int BottomPathUpgrades => 5;
-        public override string Description => "Throws playing cards at Bloons";
+        public override string Description => "向气球扔出卡片";
 
         // public override string DisplayName => "Don't need to override this, the default turns it into 'Card Monkey'"
+        public override string DisplayName => "卡片猴";
 
         public override ParagonMode ParagonMode => ParagonMode.Base555;
 
